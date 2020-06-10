@@ -1,5 +1,8 @@
 
-Esta foi minha participação da primeira edição do Next Level Week. Agradeço muito a Rocketseat por nos proporcionar essa semana cheia de imersão em tecnologias muito utilizadas no mercado, é realmente uma preparação e tanto, montar um projeto inteiro (Back-end, Front-ent e Mobile) em apenas uma semana é de um conhecimento muito denso.
+Esta foi minha participação da primeira edição do Next Level Week. Agradeço muito a Rocketseat por nos proporcionar essa semana cheia de imersão em tecnologias muito utilizadas no mercado, é realmente uma preparação e tanto, montar um projeto inteiro (Back-end, Front-end e Mobile) em apenas uma semana é de um conhecimento muito denso.
+
+
+![alt text](https://repository-images.githubusercontent.com/268999287/d6ec6100-a5e9-11ea-92f1-0554ab01acfb)
 
 
 ## :information_source:O que é a Next Level Week?
